@@ -1,0 +1,11 @@
+
+AdaptativePIDConfig.0.1                        leftPID
+AdaptativePIDConfig.0.1                        rightPID
+PIDConfig.0.1                                  linear
+PIDConfig.0.1                                  angular
+uavcan.si.unit.velocity.Scalar.1.0             maxLinearSpeed
+uavcan.si.unit.angular_velocity.Scalar.1.0     maxAngularSpeed
+uavcan.si.unit.acceleration.Scalar.1.0         maxLinearAccl
+uavcan.si.unit.angular_acceleration.Scalar.1.0 maxAngularAccl
+
+@sealed
