@@ -1,4 +1,4 @@
 PIDConfig.0.1[3] configs
-float32[3]   thresholds
-
+float32[3]       thresholds
+uint8            ID
 @sealed
