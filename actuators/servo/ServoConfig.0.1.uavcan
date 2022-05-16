@@ -1,3 +1,6 @@
-uavcan.primitive.Empty.1.0 empty
+uint8  ID
+uint16 torque_limit
+uint16 moving_speed
+jeroboam_datatypes.actuators.motion.PIDConfig.0.1 pid
 
 @sealed

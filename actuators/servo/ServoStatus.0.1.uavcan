@@ -1,0 +1,7 @@
+uint8                                 ID
+uavcan.si.unit.angle.Scalar.1.0       angle
+uavcan.si.unit.velocity.Scalar.1.0    speed
+uint16                                torque
+float32                               load
+uavcan.si.unit.temperature.Scalar.1.0 temperature
+@sealed

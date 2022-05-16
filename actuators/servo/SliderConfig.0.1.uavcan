@@ -1,0 +1,6 @@
+uint8 ID
+jeroboam_datatypes.actuators.motion.PIDConfig.0.1 speed_pi
+jeroboam_datatypes.actuators.motion.PIDConfig.0.1 position_pid
+float32[2]                                        feedforward_gains
+
+@sealed
