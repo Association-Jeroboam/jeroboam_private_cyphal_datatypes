@@ -1,0 +1,3 @@
+uavcan.si.unit.velocity.Scalar.1.0 linear
+uavcan.si.unit.angular_velocity.Scalar.1.0 angular
+@sealed

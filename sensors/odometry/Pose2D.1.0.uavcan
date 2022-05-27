@@ -1,0 +1,4 @@
+uavcan.si.unit.length.Scalar.1.0 x
+uavcan.si.unit.length.Scalar.1.0 y
+uavcan.si.unit.angle.Scalar.1.0  theta
+@sealed
